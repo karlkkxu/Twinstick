@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarjoitustyöTwinStick", "HarjoitustyöTwinStick.csproj", "{C388DEDA-59F8-4AB0-85A1-073C936D3132}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C388DEDA-59F8-4AB0-85A1-073C936D3132}.Debug|x86.ActiveCfg = Debug|x86
+		{C388DEDA-59F8-4AB0-85A1-073C936D3132}.Debug|x86.Build.0 = Debug|x86
+		{C388DEDA-59F8-4AB0-85A1-073C936D3132}.Release|x86.ActiveCfg = Release|x86
+		{C388DEDA-59F8-4AB0-85A1-073C936D3132}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78A5D1D1-DF8B-467B-8F5E-0A2E229AA1A9}
+	EndGlobalSection
+EndGlobal
